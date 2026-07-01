@@ -1,0 +1,8 @@
+{
+  "name": "ecommerce-platform",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

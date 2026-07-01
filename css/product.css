@@ -1,0 +1,24 @@
+.product-detail {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.product-image img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.product-info h1 {
+    margin-bottom: 20px;
+}
+
+.product-price {
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+}
+
+.product-description {
+    margin-bottom: 20px;
+}

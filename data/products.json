@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999.99,
+    "category": "Electronics",
+    "image": "assets/images/products/electronics/laptop.jpg"
+  },
+  {
+    "id": 2,
+    "name": "T-Shirt",
+    "price": 19.99,
+    "category": "Clothing",
+    "image": "assets/images/products/clothing/tshirt.jpg"
+  }
+]

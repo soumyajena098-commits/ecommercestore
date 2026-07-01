@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+    .checkout-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .product-detail {
+        flex-direction: column;
+    }
+
+    .navbar ul {
+        display: none;
+    }
+}
